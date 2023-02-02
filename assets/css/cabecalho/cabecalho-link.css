@@ -1,0 +1,15 @@
+.cabecalho__link{
+    display: flex;
+    text-decoration: none;
+    margin-left: 1.25rem;
+    align-items: center;
+    color: #808080;
+}
+.cabecalho__link:active{
+    color: #333333;
+    font-weight: bold;
+}
+.cabecalho__link:hover{
+    text-decoration: underline;
+}
+

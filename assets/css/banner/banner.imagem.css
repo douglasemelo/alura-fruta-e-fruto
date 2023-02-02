@@ -1,0 +1,22 @@
+.banner__imagem{
+    background-image: url(/assets/img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(75vh - 72px);
+    width: 100%;
+    
+}
+
+@media screen and (min-width: 0) {
+    .banner__imagem{
+        height: calc(50vh - 51px)
+    }
+    
+}
+
+@media screen and (min-width: 768px) {
+    .banner__imagem{
+        height: calc(75vh - 72px);
+    }
+    
+}

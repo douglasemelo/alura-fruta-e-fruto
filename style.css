@@ -1,0 +1,18 @@
+@import url(assets/css/reset.css);
+@import url(assets/css/normalize.css);
+@import url(assets/css/cabecalho.css);
+@import url(assets/css/banner.css);
+@import url(assets/css/sobre/sobre-descricao.css);
+@import url(assets/css/sobre/sobre-titulo.css);
+@import url(assets/css/rodape.css);
+
+:root{
+    --cor-branca-fundo: #F9F9F9;
+    --cor-cinza-fundo: #E5E5E5;
+    --cor-vermelha: #8D0606;
+    --cor-vermelha-botao-hover: #620404;
+    --cor-cinza-letra: #8C8888;
+    --cor-letra-ativa: #333333;
+    --cor-letra-branca: #FDFDFD;   
+    --cor-rodape-fundo: #8c8888;
+}
